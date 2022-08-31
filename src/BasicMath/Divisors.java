@@ -2,7 +2,7 @@ package BasicMath;
 
 public class Divisors {
     public static void main(String[] args) {
-        printDivisorsOptimal(6);
+        printDivisorsOptimal(9);
     }
 
     public static void printDivisorsOptimal(int n) {
